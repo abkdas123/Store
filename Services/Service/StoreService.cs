@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Services.Service
 {
+    //Author: Shriyansh
     public class StoreService : IStoreService
     {
         public UnitOfWork uow = null;
