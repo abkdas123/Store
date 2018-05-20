@@ -1,0 +1,9 @@
+D:\MyStore\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\MyStore\Models\bin\Debug\Models.dll
+D:\MyStore\Models\bin\Debug\Models.pdb
+D:\MyStore\Models\bin\Debug\EntityFramework.dll
+D:\MyStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStore\Models\bin\Debug\EntityFramework.xml
+D:\MyStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStore\Models\obj\Debug\Models.dll
+D:\MyStore\Models\obj\Debug\Models.pdb

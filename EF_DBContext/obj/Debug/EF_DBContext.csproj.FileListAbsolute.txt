@@ -1,0 +1,32 @@
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EF_DBContext.dll.config
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EF_DBContext.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EF_DBContext.pdb
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EntityFramework.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EntityFramework.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.pdb
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations._1.resources
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.csproj.GenerateResource.Cache
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.AddUser_2.resources
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.RenameStore_3.resources
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.AddMultipleTables_4.resources
+D:\MyStore\EF_DBContext\bin\Debug\EF_DBContext.dll.config
+D:\MyStore\EF_DBContext\bin\Debug\EF_DBContext.dll
+D:\MyStore\EF_DBContext\bin\Debug\EF_DBContext.pdb
+D:\MyStore\EF_DBContext\bin\Debug\EntityFramework.dll
+D:\MyStore\EF_DBContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStore\EF_DBContext\bin\Debug\EntityFramework.xml
+D:\MyStore\EF_DBContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.csprojResolveAssemblyReference.cache
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations._1.resources
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.AddUser_2.resources
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.RenameStore_3.resources
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.Migrations.AddMultipleTables_4.resources
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.csproj.GenerateResource.Cache
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.dll
+D:\MyStore\EF_DBContext\obj\Debug\EF_DBContext.pdb
+D:\MyStore\EF_DBContext\bin\Debug\Models.dll
+D:\MyStore\EF_DBContext\bin\Debug\Models.pdb

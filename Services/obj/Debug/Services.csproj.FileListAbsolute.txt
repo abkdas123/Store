@@ -1,0 +1,13 @@
+D:\MyStore\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\MyStore\Services\bin\Debug\Services.dll
+D:\MyStore\Services\bin\Debug\Services.pdb
+D:\MyStore\Services\bin\Debug\EF_DBContext.dll
+D:\MyStore\Services\bin\Debug\EntityFramework.dll
+D:\MyStore\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStore\Services\bin\Debug\EF_DBContext.pdb
+D:\MyStore\Services\bin\Debug\EntityFramework.xml
+D:\MyStore\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStore\Services\obj\Debug\Services.dll
+D:\MyStore\Services\obj\Debug\Services.pdb
+D:\MyStore\Services\bin\Debug\Models.dll
+D:\MyStore\Services\bin\Debug\Models.pdb

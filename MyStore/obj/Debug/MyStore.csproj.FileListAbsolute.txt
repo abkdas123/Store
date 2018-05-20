@@ -1,0 +1,60 @@
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\MyStore.dll.config
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\MyStore.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\MyStore.pdb
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Helpers.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Http.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Mvc.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Razor.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Razor.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Helpers.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Mvc.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Http.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\obj\Debug\MyStore.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\obj\Debug\MyStore.dll
+C:\Users\Abhishek Das\documents\visual studio 2013\Projects\StoreApp\MyStore\MyStore\obj\Debug\MyStore.pdb
+D:\MyStore\MyStore\obj\Debug\MyStore.csprojResolveAssemblyReference.cache
+D:\MyStore\MyStore\obj\Debug\MyStore.dll
+D:\MyStore\MyStore\obj\Debug\MyStore.pdb
+D:\MyStore\MyStore\bin\MyStore.dll.config
+D:\MyStore\MyStore\bin\MyStore.dll
+D:\MyStore\MyStore\bin\MyStore.pdb
+D:\MyStore\MyStore\bin\Models.dll
+D:\MyStore\MyStore\bin\Newtonsoft.Json.dll
+D:\MyStore\MyStore\bin\Services.dll
+D:\MyStore\MyStore\bin\System.Net.Http.Formatting.dll
+D:\MyStore\MyStore\bin\System.Web.Helpers.dll
+D:\MyStore\MyStore\bin\System.Web.Http.dll
+D:\MyStore\MyStore\bin\System.Web.Http.WebHost.dll
+D:\MyStore\MyStore\bin\System.Web.Mvc.dll
+D:\MyStore\MyStore\bin\System.Web.Razor.dll
+D:\MyStore\MyStore\bin\System.Web.Webpages.Deployment.dll
+D:\MyStore\MyStore\bin\System.Web.Webpages.dll
+D:\MyStore\MyStore\bin\System.Web.Webpages.Razor.dll
+D:\MyStore\MyStore\bin\EF_DBContext.dll
+D:\MyStore\MyStore\bin\EntityFramework.dll
+D:\MyStore\MyStore\bin\Models.pdb
+D:\MyStore\MyStore\bin\Services.pdb
+D:\MyStore\MyStore\bin\System.Web.Razor.xml
+D:\MyStore\MyStore\bin\System.Web.Webpages.xml
+D:\MyStore\MyStore\bin\System.Web.Webpages.Deployment.xml
+D:\MyStore\MyStore\bin\System.Web.Webpages.Razor.xml
+D:\MyStore\MyStore\bin\System.Web.Helpers.xml
+D:\MyStore\MyStore\bin\System.Web.Mvc.xml
+D:\MyStore\MyStore\bin\Newtonsoft.Json.xml
+D:\MyStore\MyStore\bin\System.Net.Http.Formatting.xml
+D:\MyStore\MyStore\bin\System.Web.Http.xml
+D:\MyStore\MyStore\bin\System.Web.Http.WebHost.xml
+D:\MyStore\MyStore\bin\EF_DBContext.pdb
+D:\MyStore\MyStore\bin\EntityFramework.xml

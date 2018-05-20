@@ -1,0 +1,26 @@
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EF_DBContext.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EntityFramework.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EF_DBContext.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EntityFramework.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\obj\Debug\TestConsole.pdb
+D:\MyStore\TestConsole\bin\Debug\TestConsole.exe.config
+D:\MyStore\TestConsole\obj\Debug\TestConsole.exe
+D:\MyStore\TestConsole\obj\Debug\TestConsole.pdb
+D:\MyStore\TestConsole\bin\Debug\TestConsole.exe
+D:\MyStore\TestConsole\bin\Debug\TestConsole.pdb
+D:\MyStore\TestConsole\bin\Debug\EF_DBContext.dll
+D:\MyStore\TestConsole\bin\Debug\EntityFramework.dll
+D:\MyStore\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStore\TestConsole\bin\Debug\EF_DBContext.pdb
+D:\MyStore\TestConsole\bin\Debug\EntityFramework.xml
+D:\MyStore\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStore\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\MyStore\TestConsole\bin\Debug\Models.dll
+D:\MyStore\TestConsole\bin\Debug\Models.pdb
