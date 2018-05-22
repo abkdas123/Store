@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace Services.Service
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class CategoryService : ICategoryService
     {
         public UnitOfWork uow = null;
