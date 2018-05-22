@@ -24,3 +24,16 @@ D:\MyStore\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
 D:\MyStore\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
 D:\MyStore\TestConsole\bin\Debug\Models.dll
 D:\MyStore\TestConsole\bin\Debug\Models.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Models.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\TestConsole\bin\Debug\Models.pdb

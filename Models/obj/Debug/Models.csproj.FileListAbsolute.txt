@@ -7,3 +7,24 @@ D:\MyStore\Models\bin\Debug\EntityFramework.xml
 D:\MyStore\Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\MyStore\Models\obj\Debug\Models.dll
 D:\MyStore\Models\obj\Debug\Models.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Models.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Models.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\EntityFramework.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\EntityFramework.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\obj\Debug\Models.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\obj\Debug\Models.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Models.dll.config
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
