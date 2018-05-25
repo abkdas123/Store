@@ -1,5 +1,4 @@
 ﻿using EF_DBContext.Models;
-using MyStore.Utility;
 using Services.Contract;
 using Services.Service;
 using System;
@@ -20,7 +19,6 @@ namespace MyStore.Controllers
             StoreService = new StoreService();
         }
 
-        [JwtAuthentication]
         [Route("api/GetAllStore")]
         public HttpResponseMessage GetAllStores() 
         {

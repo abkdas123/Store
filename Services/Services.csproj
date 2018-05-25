@@ -36,25 +36,8 @@
     <Reference Include="EntityFramework.SqlServer">
       <HintPath>..\EF_DBContext\bin\Debug\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.IdentityModel.Logging, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.IdentityModel.Logging.5.2.2\lib\net45\Microsoft.IdentityModel.Logging.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.2.2\lib\net45\Microsoft.IdentityModel.Tokens.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.10.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.5.2.2\lib\net45\System.IdentityModel.Tokens.Jwt.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -74,7 +57,6 @@
     <Compile Include="Service\StoreService.cs" />
     <Compile Include="Service\StoreTypeService.cs" />
     <Compile Include="Service\UserService.cs" />
-    <Compile Include="Utility\JWT_Configuration.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EF_DBContext\EF_DBContext.csproj">
@@ -85,9 +67,6 @@
       <Project>{69ea9c44-b161-43be-b954-816025cd9c1f}</Project>
       <Name>Models</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
