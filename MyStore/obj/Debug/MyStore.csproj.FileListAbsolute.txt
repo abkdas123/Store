@@ -58,3 +58,20 @@ D:\MyStore\MyStore\bin\System.Web.Http.xml
 D:\MyStore\MyStore\bin\System.Web.Http.WebHost.xml
 D:\MyStore\MyStore\bin\EF_DBContext.pdb
 D:\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Models.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Services.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\EF_DBContext.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\EntityFramework.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Models.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Services.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\EF_DBContext.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\MyStore\bin\System.IdentityModel.Tokens.Jwt.xml
