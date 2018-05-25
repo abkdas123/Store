@@ -74,6 +74,7 @@
     <Compile Include="Service\StoreService.cs" />
     <Compile Include="Service\StoreTypeService.cs" />
     <Compile Include="Service\UserService.cs" />
+    <Compile Include="Utility\JWT_Configuration.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EF_DBContext\EF_DBContext.csproj">

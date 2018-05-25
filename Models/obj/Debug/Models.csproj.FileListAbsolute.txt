@@ -28,3 +28,24 @@ C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Mod
 C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
 C:\Users\Abhishek Das\Documents\Visual Studio 2013\Projects\StoreApp\MyStore\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Github\Store\Models\bin\Debug\Models.dll.config
+C:\Github\Store\Models\bin\Debug\Models.dll
+C:\Github\Store\Models\bin\Debug\Models.pdb
+C:\Github\Store\Models\bin\Debug\EntityFramework.dll
+C:\Github\Store\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Github\Store\Models\bin\Debug\Newtonsoft.Json.dll
+C:\Github\Store\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\Store\Models\bin\Debug\EntityFramework.xml
+C:\Github\Store\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Github\Store\Models\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Github\Store\Models\bin\Debug\Newtonsoft.Json.xml
+C:\Github\Store\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Github\Store\Models\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Github\Store\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Github\Store\Models\obj\Debug\Models.dll
+C:\Github\Store\Models\obj\Debug\Models.pdb
