@@ -12,18 +12,18 @@
                 <fieldset>
                     <label for="user_username" class="control-label margin-left-420">Log In:</label>
                     <div class="form-group">
-                        <label for="user_username" class="control-label margin-left-420">Username:</label>
-                        <input type="text" id="user_username" class="form-control margin-left-420" name="user_username" autofocus />
+                        <label for="user_username" class="control-label margin-left-420">Email Id :</label>
+                        <input type="text" class="form-control margin-left-420" data-bind="value: emailId" autofocus />
                     </div>
                     <div class="form-group">
                         <label for="user_password" class="control-label margin-left-420">Password:</label>
-                        <input type="password" id="user_password" class="form-control margin-left-420" name="user_password" />
+                        <input type="password" class="form-control margin-left-420" data-bind="value: password" />
                     </div>
                     <div class="text-center pad-top-20">
                         <p>Have you forgotten your<br><a href="#" class="link"><strong>username</strong></a> or <a href="#" class="link"><strong>password</strong></a>?</p>
                     </div>
                     <div class="pad-top-20 pad-btm-20">
-                        <input type="submit" class="btn btn-default btn-block btn-lg text-center pad-top-20 margin-left-420" value="Continue">
+                        <input type="button" class="btn btn-default btn-block btn-lg text-center pad-top-20 margin-left-420" data-bind="click: submit()" value="Log In">
                     </div>
                     <div class="text-center">
                         <p>Do you wish to register<br> for <a href="#" class="link user-actions"><strong>a new account</strong></a>?</p>
