@@ -2,11 +2,22 @@
 @{
     ViewBag.Title = "Index";
 }
-
+<script src="~/Scripts/Store/Store.js"></script>
 <h2>Index</h2>
 
 <input type="button" value="Authenticate" onclick="Authenticate()" />
 <input type="button" value="Authorization" onclick="Authorization()" />
+<br /><br />
+<div id="divStore"> 
+    <input type="text" placeholder="Enter City ex: Pune" />
+    <input type="text" placeholder="Enter Area ex: Wagholi" />
+    <input type="button" value="Find Shops" data-bind="click: GetAllStores" />
+    <br /><br />
+    <div data-bind="foreach: Stores">
+        <span data-bind="text: Name "></span>
+    </div>
+</div>
+
 
 <script type="text/javascript">
     var token = '';
@@ -27,6 +38,7 @@
               //data: '{"username": "' + username + '", "password" : "' + password + '"}',
               success: function (result) {               
                   token = result;
+                  sessionStorage.setItem("token", token);
               }
           });
     };
