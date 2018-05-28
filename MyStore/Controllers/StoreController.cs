@@ -1,6 +1,8 @@
 ﻿using EF_DBContext.Models;
+using MyStore.Utility;
 using Services.Contract;
 using Services.Service;
+using Services.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +21,13 @@ namespace MyStore.Controllers
             StoreService = new StoreService();
         }
 
+        [Route("api/GetAllStore1")]
+        public HttpResponseMessage GetAllStores1()
+        {
+            return Request.CreateResponse(HttpStatusCode.Accepted, JWT_Configuration.GenerateToken("shriyansh",20));
+        }
+
+        [JwtAuthentication]
         [Route("api/GetAllStore")]
         public HttpResponseMessage GetAllStores() 
         {

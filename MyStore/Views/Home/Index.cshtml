@@ -5,3 +5,52 @@
 
 <h2>Index</h2>
 
+<input type="button" value="Authenticate" onclick="Authenticate()" />
+<input type="button" value="Authorization" onclick="Authorization()" />
+
+<script type="text/javascript">
+    var token = '';
+
+    function make_base_auth(user, password) {
+        var tok = user + ':' + password;
+        var hash = Base64.encode(tok);
+        return "Basic " + hash;
+    }
+
+    function Authenticate() {
+        $.ajax
+          ({
+              type: "GET",
+              url: "/api/GetAllStore1",
+              dataType: 'json',
+              async: false,
+              //data: '{"username": "' + username + '", "password" : "' + password + '"}',
+              success: function (result) {               
+                  token = result;
+              }
+          });
+    };
+
+    function Authorization() {
+        $.ajax
+          ({
+              type: "GET",
+              url: "/api/GetAllStore",
+              dataType: 'json',
+              async: false,
+              beforeSend: function (xhr) {
+                  xhr.setRequestHeader("Authorization", token);
+              },
+              //data: '{"username": "' + username + '", "password" : "' + password + '"}',
+              success: function (result) {
+                  alert('Authorization');
+              },
+              error: function (exception, error,response) {
+                  debugger;
+                  console.log(exception);
+                  console.log(error);
+                  console.log(response);
+              }
+          });
+    };
+</script>

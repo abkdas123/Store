@@ -71,6 +71,7 @@
     <Compile Include="DataModels\MstUser.cs" />
     <Compile Include="DataModels\Store.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\Login.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
